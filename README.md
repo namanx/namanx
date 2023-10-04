@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# About Me
+
+I'm a developer with a passion for coding and a diverse skill set. Here's a bit about me:
+
+## Programming Languages
+- Python
+- Java
+
+## Web Development
+I've been actively working on web development technologies:
+
+- JavaScript
+- HTML
+- CSS
+
+## Projects
+I've contributed to various projects and am always eager to learn and create innovative solutions.
+
+Feel free to connect with me on [GitHub](https://github.com/namanx)!
+
+
+
