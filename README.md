@@ -37,4 +37,5 @@ I've contributed to various projects and am always eager to learn and create inn
 Feel free to connect with me on [GitHub](https://github.com/namanx)!
 
 
+![cricket-world-cup-2023-opening-day-6753651837110087-law](https://github.com/namanx/namanx/assets/94428936/a8801592-5ca3-4304-a054-98e04b7952b0)
 
