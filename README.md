@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 # About Me
 
-I'm a developer with a passion for coding and a diverse skill set. Here's a bit about me:
-
+I'm a developer with a passion for coding and a diverse skill set.
+My skills:
+  - Python : Web Dev (Django,Flask) , GUI (Tkinter) , Data Science , Automation 
+  - Java : Hibernate (ORM) , OOPS , J2EE , Jakarta , JSP , Servlet 
+  - Web dev : HTML , CSS , JavaScript , Node js , React js
+  - Linux : Bash Scripting , cli , AWS cli
+    
 
