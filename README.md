@@ -120,3 +120,7 @@ My skills:
 
 ![namanx's Stats](https://github-readme-stats.vercel.app/api?username=namanx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![namanx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanx&theme=vue-dark&hide_border=true)
+
+![namanx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
