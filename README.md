@@ -100,7 +100,7 @@ My skills:
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/namanx/" target="_blank">
+  <a href="https://www.instagram.com/namanx.__.x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
 <!--   <a href="" target="_blank">
